@@ -1,2 +1,2 @@
 # scoot-scoot
-Bike and Scooter Rental
+Bike and Scooter Rental Service
